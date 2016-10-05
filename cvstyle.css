@@ -1,0 +1,40 @@
+a:hover {
+    color: darkgreen;
+    text-decoration: inherit;
+    font-style: italic;
+}
+
+a {
+    color: darkgreen;
+}
+
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    color: green;
+}
+
+h2 {
+    text-align: center;
+    color: green;
+}
+
+h3 {
+    color: limegreen;
+}
+
+h4 {
+    color: forestgreen;
+}
+
+
+body {
+    background-image: url("http://www.webdesignhot.com/wp-content/uploads/2013/06/Abstract-Green-Bokeh-Background-Vector-Graphic.jpg");
+    background-size: cover;
+    color: darkgreen;
+    padding-left: 80px;
+}
+
+
+
